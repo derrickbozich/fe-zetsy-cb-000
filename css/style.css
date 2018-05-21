@@ -52,6 +52,7 @@ header h1 {
 
 .photos > div {
 	float:left;
+	align-items: center;
 	border: 5px solid grey;
 	margin: 3px;
 
